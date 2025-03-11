@@ -1,19 +1,9 @@
 ## Hi there 👋
 
-<!--
-**suhakuijeongseok-18/suhakuijeongseok-18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-대구과학고등학교 38기 정서범입니다.
+##
+**대구과학고등학교 38기 정서범입니다.**
 
 - 🔭 DSHS 38 / 1613
 - 🌱 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=suhakuijeongseok)](https://solved.ac/suhakuijeongseok/)  
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
